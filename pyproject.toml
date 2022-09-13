@@ -1,0 +1,7 @@
+[tool.black]
+line-length=120
+force-exclude='''
+/(
+    nbdev_sample_project
+)\
+'''
