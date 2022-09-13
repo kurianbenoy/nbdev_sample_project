@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_sample_project",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_sample_project",
+    "section": "Install",
+    "text": "Install\npip install nbdev_sample_project"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_sample_project",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1 + 1\n\n2"
+  },
+  {
+    "objectID": "00_core.html",
+    "href": "00_core.html",
+    "title": "nbdev_sample_project",
+    "section": "",
+    "text": "To try building fastai tutorial deck with pre-commit.\n\n\n\nsource\n\n\n\n foo ()"
+  }
+]
