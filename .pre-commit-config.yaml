@@ -1,10 +1,10 @@
 repos:
-  # fastai pre-commit nbdev tests
-  - repo: https://github.com/fastai/nbdev
-    rev: 2.2.10
-    hooks:
-    - id: nbdev_clean
-    - id: nbdev_export
+#   # fastai pre-commit nbdev tests
+#   - repo: https://github.com/fastai/nbdev
+#     rev: 2.2.10
+#     hooks:
+#     - id: nbdev_clean
+#     - id: nbdev_export
 
   # a set of useful Python-based pre-commit hooks
   - repo: https://github.com/pre-commit/pre-commit-hooks
